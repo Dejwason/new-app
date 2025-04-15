@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0fdf4;
+  color: #1e3a1e;
+}
+button {
+  padding: 8px 16px;
+  background-color: #22c55e;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin: 5px;
+}
+input, select, textarea {
+  padding: 6px;
+  margin: 5px 0;
+  width: 100%;
+}
+.card {
+  background: white;
+  padding: 16px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
